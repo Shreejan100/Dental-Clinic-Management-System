@@ -19,7 +19,7 @@ A modern and responsive dental clinic management system built with PHP, MySQL, H
 
 ## Installation
 1. Clone this repository to your xampp/htdocs folder
-2. Import the database schema from `database/dcms_db.sql`
+2. Import the database schema from `database/dcms.sql`
 3. Configure database connection in `config/database.php`
 4. Access the application through your web browser at `http://localhost/dcms`
 
