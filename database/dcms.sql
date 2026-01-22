@@ -207,7 +207,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `role`, `is_active`, `created_at`, `updated_at`) VALUES
-(1, 'admin', '$2y$10$HRn4g3vKA0lrkirbgbRQAOYQtCqbrBz0W8TdyUJaYM6vNZi1R0k2.', 'admin', 1, '2025-06-05 04:47:19', '2025-06-05 04:47:19'),
+(1, 'admin', '$2y$10$oTosawBnMklqV1ViLR5fXOWFhMgvdqeg4M4Vuxbj8xUava6W61y9G', 'admin', 1, '2025-06-05 04:47:19', '2025-06-05 04:47:19'),
 (10, 'patient1', '$2y$10$6ZsbgnJIyiZgFNY4eMjQoOfnlq4irRZv0EUfH4nVNblxJhk//IHdm', 'patient', 1, '2025-06-05 09:36:18', '2025-06-05 09:36:18'),
 (21, 'd1', '$2y$10$w0utKidXAa/lSSGnPndG.e9sQ9ZfagnIddPCeFFkf.O3N0AfQHxIW', 'dentist', 1, '2025-06-05 17:31:24', '2025-06-05 17:31:24'),
 (22, 'd2', '$2y$10$VInCR2kZKNV14.MWtmUbWuKVFdDt/vd99v99sQNMMEQ6sdFv4u8MG', 'dentist', 1, '2025-06-05 17:33:54', '2025-06-05 17:33:54'),
