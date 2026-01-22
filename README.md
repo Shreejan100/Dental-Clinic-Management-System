@@ -23,8 +23,8 @@ A modern and responsive dental clinic management system built with PHP, MySQL, H
 ## INSIDE project FOLDER CREATE A SUB FOLDER NAME shreejandcms
 1. Clone this repository to your xampp/htdocs/project/shreejandcms/.....  folder
 2. Import the database schema from `database/dcms_db.sql`
-3. Configure database connection in `config/database.php`
-4. Access the application through your web browser at `http://localhost/dcms`
+3. Configure database connection in `config/database.php` (if needed in normal circumstance its not necessary)
+4. Access the application through your web browser at http://localhost/project/shreejandcms/dcms/
 
 ## Default Admin Credentials
 - Username: admin
